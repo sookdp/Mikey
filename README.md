@@ -29,7 +29,7 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 | Présent (10e Timeline)    |   Sombre, fatigué, présence de cernes, cheveux blanc, vêtements noirs, tatouage dans le cou   |
 --- 
 ### _Sources:_
-https://fr.wikipedia.org/wiki/Markdown
-https://docs.framasoft.org/fr/grav/markdown.html
+https://fr.wikipedia.org/wiki/Markdown <br>
+https://docs.framasoft.org/fr/grav/markdown.html <br>
 https://tokyo-revengers.fandom.com/fr/wiki/Manjiro_Sano
 
