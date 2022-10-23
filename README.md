@@ -8,15 +8,15 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 #### Voici un lien pour plus d'informations : [Personnage de Mikey](https://nntheblog.com/fr/mikey-tokyo-revengers-tout-ce-que-vous-devez-savoir/)
 ### _Spécifications sur le personnage :_  
 ---  
-* Genre : Masculin  
-* Date de naissance : 20 Août 1990(32 ans)  
-* Taille : 1m62  
-* Poids : 56 kg
-* Groupe sanguin : B
-* Couleur des yeux : Noir
-* Membres de la famille présents dans le manga: Père, mère, frères, sœur, grand-père
-* Profession : Membre d'un gang
-* Qualités : Autorité, Force au combat, Endurance, Arts Martiaux, Charisme  
+* **Genre** : Masculin  
+* **Date** de naissance : 20 Août 1990(32 ans)  
+* **Taille** : 1m62  
+* **Poids** : 56 kg
+* **Groupe sanguin** : B
+* **Couleur des yeux** : Noir
+* **Membres de la famille présents dans le manga**: Père, mère, frères, sœur, grand-père
+* **Profession** : Membre d'un gang
+* **Qualités** : Autorité, Force au combat, Endurance, Arts Martiaux, Charisme  
 ---  
 ### _Citation:_
 > _"Personne ne pense que les délinquants sont cool de nos jours, n'est-ce pas ? À l'époque de mon grand frère, il y avait des tonnes de gangs de motards par ici. Ils dévalaient la ville sur leurs motos super bruyantes. Ils étaient tous audacieux, se battaient tout le temps, mais ils prenaient soin de leurs propres problèmes. Qu'est-ce qu'il y a de si nul là-dedans ? C'est pourquoi je vais créer une nouvelle ère de délinquants."_
