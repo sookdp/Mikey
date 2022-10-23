@@ -20,3 +20,15 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 ---  
 ### _Citation:_
 > _"Personne ne pense que les délinquants sont cool de nos jours, n'est-ce pas ? À l'époque de mon grand frère, il y avait des tonnes de gangs de motards par ici. Ils dévalaient la ville sur leurs motos super bruyantes. Ils étaient tous audacieux, se battaient tout le temps, mais ils prenaient soin de leurs propres problèmes. Qu'est-ce qu'il y a de si nul là-dedans ? C'est pourquoi je vais créer une nouvelle ère de délinquants."_
+---  
+### _Apparence physique:_
+| Titre 1       |     Titre 2     |        Titre 3 |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |
+--- 
+### _Sources:_
+[texte du lien](https://fr.wikipedia.org/wiki/Markdown"texte pour le titre, facultatif")
+[texte du lien](https://docs.framasoft.org/fr/grav/markdown.html "texte pour le titre, facultatif")
+[texte du lien](url_du_lien "texte pour le titre, facultatif")
