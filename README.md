@@ -24,11 +24,12 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 ### _Apparence physique:_
 | Temporalité               |     Descrption Physique                                                                       |
 | :------------------------ | :-------------------------------------------------------------------------------------------: |
-| Passé                     |   Enfant, petit, visage enfantin, cheveux blons, long, semi-attachés                          |
+| Passé                     |   Enfant, petit, visage enfantin, cheveux blons, longs, semi-attachés                         |
 | Présent (8e Timeline)     |   Visage enfantin, cheveux noirs, tatouage dans le cou                                        |
-| Présent (10e Timeline)    |   Sombre, fatigué, présence de cernes, cheveux blanc, vetements noirs, tatouage dans le cou   |
+| Présent (10e Timeline)    |   Sombre, fatigué, présence de cernes, cheveux blanc, vêtements noirs, tatouage dans le cou   |
 --- 
 ### _Sources:_
 https://fr.wikipedia.org/wiki/Markdown
 https://docs.framasoft.org/fr/grav/markdown.html
+https://tokyo-revengers.fandom.com/fr/wiki/Manjiro_Sano
 
