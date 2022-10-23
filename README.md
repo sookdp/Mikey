@@ -29,6 +29,6 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 | Gauche        |     Centre      |         Droite |
 --- 
 ### _Sources:_
-(https://fr.wikipedia.org/wiki/Markdown)
+https://fr.wikipedia.org/wiki/Markdown
 [texte du lien](https://docs.framasoft.org/fr/grav/markdown.html "texte pour le titre, facultatif")
 [texte du lien](url_du_lien "texte pour le titre, facultatif")
