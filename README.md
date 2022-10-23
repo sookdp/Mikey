@@ -22,7 +22,7 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 > _"Personne ne pense que les délinquants sont cool de nos jours, n'est-ce pas ? À l'époque de mon grand frère, il y avait des tonnes de gangs de motards par ici. Ils dévalaient la ville sur leurs motos super bruyantes. Ils étaient tous audacieux, se battaient tout le temps, mais ils prenaient soin de leurs propres problèmes. Qu'est-ce qu'il y a de si nul là-dedans ? C'est pourquoi je vais créer une nouvelle ère de délinquants."_
 ---  
 ### _Apparence physique:_
-| Temporalité               |     Descrption Physique                                                                       |
+| Temporalité               |     Description Physique                                                                       |
 | :------------------------ | :-------------------------------------------------------------------------------------------: |
 | Passé                     |   Enfant, petit, visage enfantin, cheveux blons, longs, semi-attachés                         |
 | Présent (8e Timeline)     |   Visage enfantin, cheveux noirs, tatouage dans le cou                                        |
