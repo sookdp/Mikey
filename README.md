@@ -22,11 +22,11 @@ C'est un personnage central du manga. Il est le leader gang **Tokyo Manjikai**. 
 > _"Personne ne pense que les délinquants sont cool de nos jours, n'est-ce pas ? À l'époque de mon grand frère, il y avait des tonnes de gangs de motards par ici. Ils dévalaient la ville sur leurs motos super bruyantes. Ils étaient tous audacieux, se battaient tout le temps, mais ils prenaient soin de leurs propres problèmes. Qu'est-ce qu'il y a de si nul là-dedans ? C'est pourquoi je vais créer une nouvelle ère de délinquants."_
 ---  
 ### _Apparence physique:_
-| Temporalité               |     Titre 2     |        Titre 3 |
-| :------------             | :-------------: | -------------: |
-| Passé                     |     Colonne     |        Colonne |
-| Présent (8e Timeline)     |   Alignée au    |      Alignée à |
-| Présent (10e Timeline)    |     Centre      |         Droite |
+| Temporalité               |     Descrption Physique                                                                       |
+| :------------------------ | :-------------------------------------------------------------------------------------------: |
+| Passé                     |   Enfant, petit, visage enfantin, cheveux blons, long, semi-attachés                          |
+| Présent (8e Timeline)     |   Visage enfantin, cheveux noirs, tatouage dans le cou                                        |
+| Présent (10e Timeline)    |   Sombre, fatigué, présence de cernes, cheveux blanc, vetements noirs, tatouage dans le cou   |
 --- 
 ### _Sources:_
 https://fr.wikipedia.org/wiki/Markdown
